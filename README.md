@@ -8,7 +8,7 @@ Short video: https://clipchamp.com/watch/ncYFcrfuMjV
 ### Column reordering template
 Add the "Column reordering BrowseBox" global extension to enable column reordering for all browseboxes in the app.
 ![Global extension](https://github.com/mikeduglas/ColumnReorderingListbox/blob/master/screenshots/globalext.jpg?raw=true)  
-You can change the settings for particular browseboxe:
+You can change the settings for particular browsebox:
 ![Local extension](https://github.com/mikeduglas/ColumnReorderingListbox/blob/master/screenshots/localext.jpg?raw=true)  
 
 
