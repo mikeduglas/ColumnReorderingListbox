@@ -23,9 +23,7 @@ You can change the settings for particular browsebox:
 - [printf](https://github.com/mikeduglas/printf)
 
 
-### Price
-$180 via ClarionShop
-
-
 ### Contacts
 mikeduglas@yandex.ru
+
+[Buy now](https://www.clarionshop.com/checkout.cfm?pid=1690&q=1)
