@@ -19,6 +19,7 @@ You can change the settings for particular browsebox:
 
 ### Dependencies
 - [winapi](https://github.com/mikeduglas/winapi)
+- [gdiplus](https://github.com/mikeduglas/gdiplus)
 - [printf](https://github.com/mikeduglas/printf)
 
 
