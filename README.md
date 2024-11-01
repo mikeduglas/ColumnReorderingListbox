@@ -2,7 +2,7 @@
 
 Provides the user the ability to drag column headers to reorder columns in the listbox.
 
-Short video: https://clipchamp.com/watch/ncYFcrfuMjV
+Short video: https://github.com/user-attachments/assets/a4fe082e-03c7-437d-91bd-fe1b73528bb3
 
 
 ### Column reordering template
